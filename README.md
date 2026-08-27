@@ -28,7 +28,11 @@ The dashboard brings **patient, treatment, cost, insurance, and location data** 
 ## Tools Used
 
 * **Microsoft Excel** – Dashboard creation and analysis
-* **Pivot Tables** – Data summarization
+* **Consolidated Sheet** – Combined data from multiple sheets into one dataset
+* **Data Validation** – Checked and maintained data accuracy
+* **Missing Value Handling** – Identified and handled missing data
+* **Duplicate Cleaning** – Identified and removed duplicate records
+* **Pivot Tables** – Data summarization and analysis
 * **Pivot Charts** – Data visualization
 * **Slicers** – Interactive filtering
 * **KPI Cards** – Key performance indicators
